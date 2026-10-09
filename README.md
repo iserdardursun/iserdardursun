@@ -23,8 +23,8 @@ pipelines, and contribute to the open-source tools I use every day.
 #### Open source
 
 - **[curl](https://github.com/curl/curl)**: keep IP info and connect time when connect fails ([commit](https://github.com/curl/curl/commit/354834bf905f58f7727df60d30eef7cac52f7df8), [#23319](https://github.com/curl/curl/pull/23319)) ![merged](https://img.shields.io/badge/merged-8250df?style=flat-square)
-- **[k9s](https://github.com/derailed/k9s)**: mark all rows in the table with ctrl-a ([#4256](https://github.com/derailed/k9s/pull/4256)) ![open](https://img.shields.io/badge/open-1f883d?style=flat-square)
-- **[k9s](https://github.com/derailed/k9s)**: suspend/resume all marked cronjobs ([#4255](https://github.com/derailed/k9s/pull/4255)) ![open](https://img.shields.io/badge/open-1f883d?style=flat-square)
+- **[k9s](https://github.com/derailed/k9s)**: mark all rows in the table with ctrl-a ([#4256](https://github.com/derailed/k9s/pull/4256)) ![status](https://img.shields.io/github/pulls/detail/state/derailed/k9s/4256?style=flat-square&label=)
+- **[k9s](https://github.com/derailed/k9s)**: suspend/resume all marked cronjobs ([#4255](https://github.com/derailed/k9s/pull/4255)) ![status](https://img.shields.io/github/pulls/detail/state/derailed/k9s/4255?style=flat-square&label=)
 
 #### Contact
 
