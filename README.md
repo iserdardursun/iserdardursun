@@ -65,6 +65,8 @@ and DevSecOps. I also contribute to the open-source tools I use every day.
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![opencode](https://img.shields.io/badge/opencode-000000?style=flat&logo=opencode&logoColor=white)
 
 #### Open source
 
