@@ -5,6 +5,8 @@ Senior DevOps Engineer · Computer Science graduate, Özyeğin University
 I build and run cloud infrastructure, Kubernetes platforms and CI/CD
 pipelines, and contribute to the open-source tools I use every day.
 
+<img src="ai-arcade.svg" width="100%" alt="Arcade animation: an AI monster eats HTML, JavaScript, Python, Bash, C#, Go, C, C++, Docker, Helm, Kubernetes, Linux, Windows, engineers and finally a human. Game over.">
+
 #### Tech
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
