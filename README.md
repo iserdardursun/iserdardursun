@@ -8,7 +8,7 @@ and DevSecOps. I also contribute to the open-source tools I use every day.
 
 🥈 2nd place, Cisco Observability CTF (AppDynamics & Splunk)
 
-<img src="ai-arcade.svg" width="100%" alt="Arcade animation: an AI monster destroys HTML, JavaScript, Python, Bash, C#, Go, C, C++, Docker, Helm, Kubernetes, Linux, Windows, engineers and finally a human. Humanity: game over.">
+<img src="ai-arcade.svg?v=3" width="100%" alt="Arcade animation: an AI monster destroys HTML, JavaScript, Python, Bash, C#, Go, C, C++, Docker, Helm, Kubernetes, Linux, Windows, engineers and finally a human. Humanity: game over.">
 
 #### Tech
 
