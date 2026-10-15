@@ -70,7 +70,7 @@ and DevSecOps. I also contribute to the open-source tools I use every day.
 
 #### Open source
 
-- **[curl](https://github.com/curl/curl)**: keep IP info and connect time when connect fails ([commit](https://github.com/curl/curl/commit/354834bf905f58f7727df60d30eef7cac52f7df8), [#23319](https://github.com/curl/curl/pull/23319)) <img src="badges/merged.svg" alt="merged" align="absbottom">
+- **[curl](https://github.com/curl/curl)**: keep IP info and connect time when connect fails ([commit](https://github.com/curl/curl/commit/354834bf905f58f7727df60d30eef7cac52f7df8), [#23319](https://github.com/curl/curl/pull/23319)) <img src="badges/merged.svg" alt="merged" align="absbottom"> <a href="https://github.com/curl/curl/releases/tag/curl-8_23_0"><img src="badges/curl-8.23.0.svg" alt="released in curl 8.23.0" align="absbottom"></a>
 - **[k9s](https://github.com/derailed/k9s)**: mark all rows in the table with ctrl-a ([#4256](https://github.com/derailed/k9s/pull/4256)) <img src="badges/k9s-pr-4256.svg" alt="status" align="absbottom">
 - **[k9s](https://github.com/derailed/k9s)**: suspend/resume all marked cronjobs ([#4255](https://github.com/derailed/k9s/pull/4255)) <img src="badges/k9s-pr-4255.svg" alt="status" align="absbottom">
 
